@@ -1,20 +1,15 @@
-# Uart Connection
+# FPGA_HOST_Connection
 
-**
+## 1. 페이지 설명
 
-## 1. 폴더 구조
+This page contains some example about host pc and firmware connection
 
-```
-.
-├── firmware                    // 하드웨어 microblaze에 올라가는 코드
-│   └── main.c
-└── host_pc                     // host 컴퓨터에서 구동하는 코드
-    ├── memory_test.ipynb
-    ├── testfile.txt
-    └── uart.py
-```
+|No.|Category|Description|
+|---|---|---|
+|1. |Uart||
+|2. |Ethernet||
 
-## 2. 환경
+## 2. 공통환경
 
 구성에 사용된 환경은 다음과 같다.
 
