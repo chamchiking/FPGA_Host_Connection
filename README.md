@@ -21,7 +21,7 @@ No. Category Description
 
 - Nexys Video (<https://digilent.com/reference/programmable-logic/nexys-video/start>)
 
-# FPGA_Host_Connection(한글)
+# FPGA_Host_Connection(한국어)
 
 ## 1. 페이지 설명
 
