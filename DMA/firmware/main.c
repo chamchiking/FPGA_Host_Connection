@@ -23,7 +23,6 @@ int main(){
 	}
 	print("example initialization success .... \r\n");
 	XExample_Start(&myExample);
-//	XExample_EnableAutoRestart(&myExample);
 
 	//-----------------------------------------------------------------------
 	XAxiDma_Config *myDmaConfig;
